@@ -23,7 +23,9 @@ namespace Ex04.Menus.Events
             while (!exitRequested)
             {
                 Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("=== " + this.Title + " ===");
+                Console.ResetColor();
 
                 for (int i = 0;  i < m_MenuItems.Count; i++)
                 {
