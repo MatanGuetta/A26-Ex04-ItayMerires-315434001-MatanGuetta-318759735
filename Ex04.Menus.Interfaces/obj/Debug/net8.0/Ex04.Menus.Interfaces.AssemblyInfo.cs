@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex04.Menus.Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fee90d0100d7301587a4947fb14be11fb6f83ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b95ce659178b8520857804edaf2cf3a6bce4ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex04.Menus.Interfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex04.Menus.Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
