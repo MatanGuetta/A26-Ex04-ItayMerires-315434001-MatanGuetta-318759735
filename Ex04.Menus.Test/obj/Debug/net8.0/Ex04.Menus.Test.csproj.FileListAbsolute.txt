@@ -1,0 +1,6 @@
+C:\Users\matan\source\repos\MatanGuetta\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\Ex04.Menus.Test\obj\Debug\net8.0\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\Users\matan\source\repos\MatanGuetta\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\Ex04.Menus.Test\obj\Debug\net8.0\Ex04.Menus.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matan\source\repos\MatanGuetta\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\Ex04.Menus.Test\obj\Debug\net8.0\Ex04.Menus.Test.AssemblyInfoInputs.cache
+C:\Users\matan\source\repos\MatanGuetta\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\Ex04.Menus.Test\obj\Debug\net8.0\Ex04.Menus.Test.AssemblyInfo.cs
+C:\Users\matan\source\repos\MatanGuetta\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\Ex04.Menus.Test\obj\Debug\net8.0\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\matan\source\repos\MatanGuetta\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\Ex04.Menus.Test\obj\Debug\net8.0\Ex04.Menus.Test.sourcelink.json
