@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex04.Menus.Events")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fee90d0100d7301587a4947fb14be11fb6f83ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d76fbcdf4f08d921831132b5706078589b641f86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex04.Menus.Events")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex04.Menus.Events")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
