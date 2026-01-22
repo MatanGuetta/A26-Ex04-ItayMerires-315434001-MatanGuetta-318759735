@@ -1,4 +1,8 @@
-﻿namespace Ex04.Menus.Test
+﻿using Ex04.Menus.Events;
+using Ex04.Menus.Interfaces;
+using System;
+
+namespace Ex04.Menus.Test
 {
     public class Program
     {
@@ -17,22 +21,22 @@
 
         }
 
-        void ShowTime()
+        void showTime()
         {
 
         }
 
-        void ShowDate()
+        void showDate()
         {
 
         }
 
-        void ShowVersion()
+        void showVersion()
         {
 
         }
 
-        void CountUppercaseLetters()
+        void countUppercaseLetters()
         {
 
         }

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29ABAC34-9D90-4739-9449-740384B4AFF6}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\users\\matan\\source\\repos\\matanguetta\\a26-ex04-itaymerires-315434001-matanguetta-318759735\\ex04.menus.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29ABAC34-9D90-4739-9449-740384B4AFF6}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\CountCapitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Test\\CountCapitals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\ActionItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Events\\ActionItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowVersion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Test\\ShowVersion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Events\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Test\\ShowTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15A17A4D-AE38-46CB-9F4D-52E4E6F15A8B}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|c:\\users\\matan\\source\\repos\\matanguetta\\a26-ex04-itaymerires-315434001-matanguetta-318759735\\ex04.menus.events\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15A17A4D-AE38-46CB-9F4D-52E4E6F15A8B}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Test\\ShowDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex04.Menus.Test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,53 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\Program.cs",
-              "RelativeDocumentMoniker": "Ex04.Menus.Test\\Program.cs",
-              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\Program.cs",
-              "RelativeToolTip": "Ex04.Menus.Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Title": "CountCapitals.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\CountCapitals.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\CountCapitals.cs",
+              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\CountCapitals.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\CountCapitals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:59:01.542Z",
+              "WhenOpened": "2026-01-22T09:39:22.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ActionItem.cs",
-              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\ActionItem.cs",
-              "RelativeDocumentMoniker": "Ex04.Menus.Events\\ActionItem.cs",
-              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\ActionItem.cs",
-              "RelativeToolTip": "Ex04.Menus.Events\\ActionItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Title": "ShowVersion.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowVersion.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowVersion.cs",
+              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowVersion.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:56:38.298Z",
+              "WhenOpened": "2026-01-22T09:37:55.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\Program.cs",
+              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\Program.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:33:41.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\MenuItem.cs",
-              "RelativeDocumentMoniker": "Ex04.Menus.Events\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\MenuItem.cs",
-              "RelativeToolTip": "Ex04.Menus.Events\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ShowDate.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowDate.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowDate.cs",
+              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowDate.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:52:04.102Z",
+              "WhenOpened": "2026-01-22T09:35:50.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Ex04.Menus.Events\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Events\\MainMenu.cs",
-              "RelativeToolTip": "Ex04.Menus.Events\\MainMenu.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDgAAAARAAAAAAAAAA==",
+              "Title": "ShowTime.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowTime.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowTime.cs",
+              "ToolTip": "C:\\Users\\matan\\source\\repos\\MatanGuetta\\A26-Ex04-ItayMerires-315434001-MatanGuetta-318759735\\Ex04.Menus.Test\\ShowTime.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T08:47:41.67Z",
+              "WhenOpened": "2026-01-22T09:20:18.983Z",
               "EditorCaption": ""
             }
           ]
