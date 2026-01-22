@@ -5,16 +5,18 @@ namespace Ex04.Menus.Events
 
 	public class ActionItem : MenuItem
 	{
-		private event Action m_Action;
+		public event Action Selected;
 		
-		public ActionItem(string i_Title, Action i_Action) : base(i_Title)
+		public ActionItem(string i_Title) : base(i_Title) { }
+
+        protected virtual void OnSelected()
+        {
+            Selected?.Invoke();
+        }
+
+        public override void Show()
 		{
-			m_Action += i_Action;
-		}
-		
-		public override void Show()
-		{
-			m_Action?.Invoke();
+			OnSelected();
 			Console.WriteLine("Press Enter to continue...");
 			Console.ReadLine();
 		}

@@ -11,7 +11,7 @@ namespace Ex04.Menus.Interfaces
             this.m_Title = i_Title;
         }
 
-        string Title
+        public string Title
         {
             get { return m_Title; }
         }

@@ -11,7 +11,7 @@ namespace Ex04.Menus.Events
             m_MenuItems = new List<MenuItem>();
         }
 
-        void AddMenuItem(MenuItem i_MenuItem)
+        public void AddMenuItem(MenuItem i_MenuItem)
         {
             m_MenuItems.Add(i_MenuItem);
         }
@@ -27,7 +27,7 @@ namespace Ex04.Menus.Events
 
                 for (int i = 0;  i < m_MenuItems.Count; i++)
                 {
-                    console.Writeline($"{i + 1}. {m_MenuItems[i].Title}");
+                    Console.WriteLine($"{i + 1}. {m_MenuItems[i].Title}");
                 }
 
                 Console.WriteLine("0. Exit");

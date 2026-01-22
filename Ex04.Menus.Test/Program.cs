@@ -8,7 +8,8 @@ namespace Ex04.Menus.Test
     {
         public static void Main()
         {
-
+            TestInterfaceMenu();
+            TestEventsMenu();
         }
 
         public void TestInterfaceMenu()
@@ -18,7 +19,7 @@ namespace Ex04.Menus.Test
 
         public void TestEventsMenu()
         {
-            ActionItem timeItem = new ActionItem("Show Time", ShowTime); 
+            ActionItem timeItem = new ActionItem("Show Time"); 
         }
 
         void showTime()

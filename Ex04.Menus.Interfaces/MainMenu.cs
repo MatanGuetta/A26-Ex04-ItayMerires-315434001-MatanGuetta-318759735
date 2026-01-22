@@ -25,7 +25,7 @@ namespace Ex04.Menus.Interfaces
 
                 for (int i = 0; i < m_MenuItems.Count; i++)
                 {
-                    console.Writeline($"{i + 1}. {m_MenuItems[i].Title}");
+                    Console.WriteLine($"{i + 1}. {m_MenuItems[i].Title}");
                 }
 
                 Console.WriteLine("0. Exit");
