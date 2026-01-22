@@ -25,9 +25,9 @@ namespace Ex04.Menus.Events
                 Console.Clear();
                 Console.WriteLine("=== " + this.Title + " ===");
 
-                foreach (MenuItem item in m_MenuItems)
+                for (int i = 0;  i < m_MenuItems.Count; i++)
                 {
-                    Console.WriteLine($"{i + 1}. {m_MenuItems[i].Title}");
+                    console.Writeline($"{i + 1}. {m_MenuItems[i].Title}");
                 }
 
                 Console.WriteLine("0. Exit");

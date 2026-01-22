@@ -3,7 +3,7 @@
 namespace Ex04.Menus.Events
 {
 
-	public class MenuItem
+	public abstract class MenuItem
 	{
 		string m_Title;
 

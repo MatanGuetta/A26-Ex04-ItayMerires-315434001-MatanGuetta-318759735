@@ -6,7 +6,7 @@ namespace Ex04.Menus.Test
 	{
 		void IExecutable.Execute()
 		{
-			Console.WriteLine(DateTime.Now.ToString("HH:mm:ss"));
+			Console.WriteLine("The time is: " + DateTime.Now.ToString("HH:mm:ss"));
         }
     }
 }

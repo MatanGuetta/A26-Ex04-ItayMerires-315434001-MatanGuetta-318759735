@@ -17,7 +17,7 @@ namespace Ex04.Menus.Test
 					capitalCount++;
 				}
 			}
-			Console.WriteLine($"Number of capital letters: {capitalCount}");
+			Console.WriteLine($"Number of capital letters: " + capitalCount);
 		}
     }
 }

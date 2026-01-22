@@ -22,12 +22,13 @@ namespace Ex04.Menus.Interfaces
 			{
 				Console.Clear();
 				Console.WriteLine("=== " + this.Title + " ===");
-				foreach (MenuItem item in m_MenuItems)
-                {
-					Console.WriteLine($"{i + 1}. {m_MenuItems[i].Title}");
-				}
 
-				Console.WriteLine("0. Exit");
+                for (int i = 0; i < m_MenuItems.Count; i++)
+                {
+                    console.Writeline($"{i + 1}. {m_MenuItems[i].Title}");
+                }
+
+                Console.WriteLine("0. Exit");
 				Console.Write("Select an option: ");
 				string userInput = Console.ReadLine();
 

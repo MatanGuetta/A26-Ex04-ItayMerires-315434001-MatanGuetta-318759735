@@ -18,7 +18,7 @@ namespace Ex04.Menus.Test
 
         public void TestEventsMenu()
         {
-
+            ActionItem timeItem = new ActionItem("Show Time", ShowTime); 
         }
 
         void showTime()

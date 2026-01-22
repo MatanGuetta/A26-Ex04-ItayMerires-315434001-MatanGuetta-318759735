@@ -6,7 +6,7 @@ namespace Ex04.Menus.Test
     {
 		void IExecutable.Execute()
 		{
-			Console.WriteLine(DateTime.Now.ToString("dd/MM/yyyy"));
+			Console.WriteLine("The date is : " + DateTime.Now.ToString("dd/MM/yyyy"));
         }
     }
 }

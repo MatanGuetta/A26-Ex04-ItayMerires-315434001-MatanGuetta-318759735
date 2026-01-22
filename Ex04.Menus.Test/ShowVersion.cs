@@ -6,7 +6,7 @@ namespace Ex04.Menus.Test
 	{
 		void IExecutable.Execute()
 		{
-			Console.WriteLine($"Version: {Environment.Version}");
+			Console.WriteLine($"The version is: " + Environment.Version);
 		}
     }
 }
