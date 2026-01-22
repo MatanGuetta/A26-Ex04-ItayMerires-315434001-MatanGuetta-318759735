@@ -12,9 +12,10 @@ namespace Ex04.Menus.Interfaces
 			r_Listeners = new List<IExecutable>();
         }
 
-		public void AddListener(IExecutable i_Listener)
+		public ActionItem AddListener(IExecutable i_Listener)
 		{
 			r_Listeners.Add(i_Listener);
+            return this;
         }
 
 		public void RemoveListener(IExecutable i_Listener)

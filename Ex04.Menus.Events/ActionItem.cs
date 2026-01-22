@@ -16,7 +16,10 @@ namespace Ex04.Menus.Events
 
         public override void Show()
 		{
-			OnSelected();
+			Console.Clear();
+
+            OnSelected();
+
 			Console.WriteLine("Press Enter to continue...");
 			Console.ReadLine();
 		}

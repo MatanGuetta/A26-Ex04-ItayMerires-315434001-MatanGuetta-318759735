@@ -21,14 +21,16 @@ namespace Ex04.Menus.Interfaces
 			while (!exitRequested)
 			{
 				Console.Clear();
-				Console.WriteLine("=== " + this.Title + " ===");
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.WriteLine("=== " + this.Title + " ===");
+                Console.ResetColor();
 
                 for (int i = 0; i < m_MenuItems.Count; i++)
                 {
                     Console.WriteLine($"{i + 1}. {m_MenuItems[i].Title}");
                 }
 
-                Console.WriteLine("0. Exit");
+                Console.WriteLine("0. Exit");//**************************
 				Console.Write("Select an option: ");
 				string userInput = Console.ReadLine();
 
